@@ -1,0 +1,1 @@
+cmd_/home/fakhruddin/Projects/lfs/drivers/linux/2.6/src/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/fakhruddin/Projects/lfs/drivers/linux/2.6/src/hello.ko /home/fakhruddin/Projects/lfs/drivers/linux/2.6/src/hello.o /home/fakhruddin/Projects/lfs/drivers/linux/2.6/src/hello.mod.o ;  true
