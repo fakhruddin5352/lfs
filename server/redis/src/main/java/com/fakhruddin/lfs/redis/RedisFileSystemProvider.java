@@ -1,4 +1,4 @@
-package com.fakhruddin.lfs;
+package com.fakhruddin.lfs.redis;
 
 import java.io.IOException;
 import java.net.URI;
@@ -26,7 +26,7 @@ public class RedisFileSystemProvider extends FileSystemProvider {
 	 *
 	 */
 	
-	private static final String LFS_SCHEME = "lfs";
+	public static final String LFS_SCHEME = "lfs";
 
     private RedisFileSystem fileSystem;
 

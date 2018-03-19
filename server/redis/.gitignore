@@ -1,4 +1,4 @@
-org.codehaus.mojo.archetypestarget/
+target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -8,6 +8,7 @@ org.codehaus.mojo.archetypestarget/
 .project
 .settings
 .springBeans
+.sts4-cache
 
 ### IntelliJ IDEA ###
 .idea
@@ -22,6 +23,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-### VS Code ###
-.vscode

@@ -1,4 +1,4 @@
-package com.fakhruddin.lfs;
+package com.fakhruddin.lfs.redis;
 
 import java.io.IOException;
 import java.nio.file.FileStore;
